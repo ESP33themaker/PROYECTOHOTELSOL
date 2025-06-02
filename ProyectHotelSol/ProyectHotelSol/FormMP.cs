@@ -50,7 +50,7 @@ namespace ProyectHotelSol
                         break;
 
                     case 5:
-                        FormOpc5 form5 = new FormOpc5();
+                        FormContra form5 = new FormContra();
                         form5.Show();
                         this.Close();
                         break;

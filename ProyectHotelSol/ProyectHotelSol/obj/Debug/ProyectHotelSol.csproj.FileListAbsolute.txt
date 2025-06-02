@@ -47,3 +47,5 @@ C:\Users\Lenovo\Documents\6to Semestre\Ingenieria_Software\ProyectHotelSol\Proye
 C:\Users\Lenovo\Documents\6to Semestre\Ingenieria_Software\ProyectHotelSol\ProyectHotelSol\obj\Debug\ProyectHotelSol.FormOpc3.resources
 C:\Users\Lenovo\Documents\6to Semestre\Ingenieria_Software\ProyectHotelSol\ProyectHotelSol\obj\Debug\ProyectHotelSol.FormOpc4.resources
 C:\Users\Lenovo\Documents\6to Semestre\Ingenieria_Software\ProyectHotelSol\ProyectHotelSol\obj\Debug\ProyectHotelSol.FormOpc5.resources
+C:\Users\Lenovo\Documents\6to Semestre\Ingenieria_Software\ProyectHotelSol\ProyectHotelSol\obj\Debug\ProyectHotelSol.exe.config
+C:\Users\Lenovo\Documents\6to Semestre\Ingenieria_Software\ProyectHotelSol\ProyectHotelSol\obj\Debug\ProyectHotelSol.FormContra.resources
